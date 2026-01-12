@@ -12,4 +12,3 @@ function openCamera() {
     });
 }
 cameraButton.addEventListener('click', openCamera);
-
